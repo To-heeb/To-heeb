@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **an encrypted document management system**
 
-- 🌱 I’m currently learning **Java Server Pages (JSP).**
+- 🌱 I’m currently building with **Java Server Pages (JSP).**
 
 - 👨‍💻 All of my projects are available at [https://www.toheeboyekola.com](https://www.toheeboyekola.com)
 
