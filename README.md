@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📝 I intend write articles on [https://toheeb19.hashnode.dev](https://toheeb19.hashnode.dev)
 
-- 💬 Ask me about **PHP and Codeigniter**
+- 💬 Ask me about **PHP, Laravel and Codeigniter**
 
 - 📫 How to reach me **toheeb.olawale.to23@gmail.com**
 
