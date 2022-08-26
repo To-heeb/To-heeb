@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently building with **Java Server Pages (JSP).**
 
+- 📝 I'm currently studying Computer Science Fundamentals on [Brilliant](https://brilliant.org/)
+
 - 👨‍💻 All of my projects are available at [https://www.toheeboyekola.com](https://www.toheeboyekola.com)
 
 - 📝 I intend write articles on [https://toheeb19.hashnode.dev](https://toheeb19.hashnode.dev)
