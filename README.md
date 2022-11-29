@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **an encrypted document management system**
 
-- 🌱 I’m currently building with **Java Server Pages (JSP).**
+- 🌱 I’m currently building with **PHP (Laravel).**
 
-- 📝 I'm currently studying Computer Science Fundamentals on [Brilliant](https://brilliant.org/)
+- 📝 I'm currently studying DSA from [Kunal's course]([https://brilliant.org/](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java))
 
 - 👨‍💻 All of my projects are available at [https://www.toheeboyekola.com](https://www.toheeboyekola.com)
 
 - 📝 I intend write articles on [https://toheeb19.hashnode.dev](https://toheeb19.hashnode.dev)
 
-- 💬 Ask me about **PHP, Laravel and Codeigniter**
+- 💬 Ask me about **Java, PHP, Laravel and Codeigniter**
 
 - 📫 How to reach me **toheeb.olawale.to23@gmail.com**
 
