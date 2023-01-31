@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently building with **PHP (Laravel).**
 
-- 📝 I'm currently studying DSA from [Kunal's course]([https://brilliant.org/](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java))
+- 📝 I'm currently studying DSA from [Kunals course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 - 👨‍💻 All of my projects are available at [https://www.toheeboyekola.com](https://www.toheeboyekola.com)
 
