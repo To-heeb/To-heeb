@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Oyekola Toheeb</h1>
 <h3 align="center">A result-driven fullstack developer</h3>
 
-- 🔭 I’m currently working on **a job application portal**
+- 🔭 I’m currently working on **a blog for professionals of a certain field**
 
 - 🌱 I’m currently building with **PHP (Laravel).**
 
