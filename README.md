@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a blog for professionals of a certain field**
 
-- 🌱 I’m currently building with **PHP (Laravel).**
+- 🌱 I’m currently building with **PHP (Laravel) and Javascript(React).**
 
 - 📝 I'm currently studying DSA from [Kunals course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
