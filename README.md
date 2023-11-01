@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences from [my portfolio](https://drive.google.com/file/d/1nS4KZYZTB-OiU9jIkpqeprMDzd4f9lKk/view)
 
-- ⚡ Fun fact **I love listening to [darknet diaries](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFya25ldGRpYXJpZXM=) on google podcasts.**
+- ⚡ Fun fact **I have listened to every episode of [darknet diaries](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFya25ldGRpYXJpZXM=) on google podcasts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
